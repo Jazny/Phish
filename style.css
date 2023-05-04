@@ -4,3 +4,8 @@ body{
     font-weight: 250;
     font-size: medium;
 }
+
+a:link, a:visited {
+    color: rgb(177, 176, 176);
+    text-decoration: none;
+}
